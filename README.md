@@ -9,5 +9,6 @@ I tested the website on a 17" FHD screen. There might be some visual issues if t
 _I won't waste my time to make it responsive, lol_
 
 
+
 It is supposed to look like this:
 !(https://ugliest-website.vercel.app/thumbnail.png)
