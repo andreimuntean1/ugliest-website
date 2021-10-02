@@ -4,7 +4,7 @@ I actually made [Filip's](https://www.youtube.com/c/FilipDev) ugliest website [d
 ## Compatibility
 I tested the website on a 17" FHD screen. There might be some visual issues if this website is accessed from diffrent screen sizes.
 
-**This website is not mobile-friendly**
+This website **is not** mobile-friendly
 
 _I won't waste my time to make it responsive, lol_
 
