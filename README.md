@@ -8,3 +8,5 @@ This website is not mobile-friendly, and I won't waste my time to make it respon
 
 It is supposed to look like this:
 !(https://ugliest-website.vercel.app/thumbnail.png)
+
+Filip, i'm waiting for my prize. DM me on Discord at **equal#7149** 😂
