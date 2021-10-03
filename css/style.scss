@@ -35,10 +35,10 @@ body {
                 margin: 8px;
                 border-radius: 50%;
                 background: rgb(0, 0, 255);
-                animation: lds-circle 2.4s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+                animation: loading-animation 2.4s cubic-bezier(0, 0.2, 0.8, 1) infinite;
             }
     
-            @keyframes lds-circle {
+            @keyframes loading-animation {
                 0%, 100% {
                   animation-timing-function: cubic-bezier(0.5, 0, 1, 0.5);
                 }
